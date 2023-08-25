@@ -21,13 +21,13 @@ body {
     height: 100vh;
     font-family: 'Ubuntu', sans-serif;
     overflow: hidden;
-    color: #fff;
+    color: #000000;
     background: linear-gradient(10deg, #2483ff 60%, #2c6afb 60%);
 }
 
 nav {
     margin-top: 100px;
-    background-color: #292929;
+    background-color: #dfdfdf;
     text-align: center;
 }
 
